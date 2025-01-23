@@ -1,63 +1,73 @@
 # Hello, World! 🌍  
 
-I’m @frknbkdmr, a psychiatry resident navigating the fine line between neurons and neural networks. When I’m not diagnosing mental disorders or decoding the human mind, I’m delving into the fascinating world of computational neuroscience and artificial intelligence.  
+I’m @frknbkdmr, a psychiatrist-in-training who straddles the line between neurons and neural networks. Picture Freud, Karl Friston, and an AI algorithm having a coffee-fueled debate—I'm the one taking notes and trying to stay caffeinated enough to understand all sides.  
+
+When I’m not pondering life’s biggest questions like, “What if the subconscious could be quantified with machine learning?” or “Did Nietzsche secretly invent deep learning with all that eternal recurrence talk?” I’m either working on research, decoding EEG signals, or just desperately trying to keep my cat, Zurna, off my keyboard.  
 
 ---
 
 ## 👨‍⚕️ About Me  
 
 - **👀 Research Focus**:  
-  My academic interests orbit around **psychiatry, artificial intelligence**, and the interplay of **brain and behavior**. Whether it's decoding EEG signals, studying the biological underpinnings of mental disorders, or hypothesizing how Freud might’ve responded to fMRI studies, I’m always on a quest for answers (and more data).  
+  My work and interests orbit the fascinating triad of **psychiatry, neuroscience, and artificial intelligence**. Some highlights include:  
+  - Unraveling the mysteries of mental disorders using machine learning (because Freud would’ve loved Python, I’m sure).  
+  - Investigating impulsivity and addiction while occasionally losing a battle to my own impulse to check Steam sales.  
+  - Studying how anxiety affects sleep patterns (while battling my own sleep-deprived state—hello, irony).  
 
 - **🌱 What I’m Learning**:  
-  I’m currently leveling up in:  
-  - **Computational Psychiatry**: Exploring how AI can redefine diagnostics and interventions.  
-  - **German Language**: Preparing for a two-month internship in Germany (*Danke schön, Duolingo!*).  
-  - **Linear Algebra**: Because what’s a good neural network without some eigenvectors?  
-  - **C Programming**: For when Python feels a little too cozy.  
+  Here’s what’s keeping me busy these days (aside from existential dread and paperwork):  
+  - **Computational Psychiatry**: Exploring how AI can revolutionize diagnostics—because “You’re just stressed” isn’t a good enough diagnosis in the 21st century.  
+  - **German Language**: Prepping for a two-month internship in Germany. *Ja, ich liebe Kaffee!*  
+  - **Linear Algebra**: Eigenvectors? More like "eigen-saviors" for neural networks.  
+  - **Metropolis-Hastings Algorithm**: The coolest algorithm you’ve probably never bragged about at parties.  
+  - **C Programming**: Because Python sometimes feels like cheating.  
 
 - **💞️ Collaboration Wishlist**:  
-  Let’s team up if you’re working on:  
-  - AI applications in psychiatry  
-  - Machine learning in healthcare  
-  - Mental health awareness campaigns with a tech twist  
+  I’d love to work with anyone who’s into:  
+  - AI-driven approaches to mental health (bonus points if your favorite neuron is the dopaminergic kind).  
+  - Machine learning applications in healthcare (because code and care go hand in hand).  
+  - Creative projects blending tech and mental health awareness (got a podcast idea? Let’s talk).  
 
 - **📫 Contact Me**:  
-  
+  Slide into my DMs or send me an email. Just please don’t try carrier pigeons; Zurna thinks they’re chew toys.  
 
 ---
 
 ## 🧠 Academic Goals  
 
-1. **Pioneering in Computational Psychiatry**: My ultimate aim is to blend AI with neuroscience, making mental health diagnostics faster, more accurate, and personalized.  
-2. **Research Contributions**:  
-   - Studying **gambling addiction** and **impulsivity**.  
-   - Unpacking how **anxiety disorders** alter sleep patterns.  
-3. **Global Academia**: Building connections in psychiatry and machine learning communities to foster groundbreaking collaborations.  
+1. **Take Over the Computational Psychiatry World**: Okay, maybe not the world, but I do plan to make AI and neuroscience besties.  
+2. **Research Like There’s No Tomorrow**:  
+   - Gambling addiction? I’m analyzing impulsivity so you don’t have to.  
+   - Anxiety messing with your sleep? I’m on it, with scales, stats, and maybe some strong coffee.  
+   - Aging and daily activities? Let’s figure out how to keep doing what we love, even if the knees disagree.  
+3. **Global Academia Domination**: (In a friendly, collaborative way, of course.)  
 
 ---
 
 ## 🤖 Projects & Experiments  
 
-- **AI-Driven Mental Health Tools**: Working on Python scripts that could (one day) out-diagnose Dr. House.  
-- **Reinforcement Learning Simulations**: Because who doesn’t want to train agents to play games (or solve real-world problems)?  
-- **Semi-Structured Interview Frameworks**: Inspired by *The Checklist Manifesto*, I’m crafting tools to streamline psychiatric evaluations.  
+- **AI Mental Health Tools**: Because someday, your therapist might be a bot, and I want to make sure it’s a good one.  
+- **Reinforcement Learning for Fun & Profit**: Training agents to make better decisions—unlike me with midnight snacks.  
+- **Semi-Structured Interviews**: Inspired by *The Checklist Manifesto* to make psychiatric evaluations smarter, faster, and more efficient.  
+- **Dark Academia-Inspired AI Systems**: Okay, this one’s not real… yet.  
 
 ---
 
 ## 🏋️‍♂️ Fun Facts & Quirks  
 
-- **Fitness Journey**: Currently on a **cutting phase**, balancing high-volume exercise and intermittent fasting (16:8). Energy levels upon waking? Let’s just say coffee remains a cornerstone of my survival. ☕  
-- **CRPG Enthusiast**: I’ve spent hours on games like **Baldur’s Gate 3**, where moral ambiguity thrives (as it does in psychiatry).  
-- **Dark Academia Aesthetic**: From home decor to wardrobe, I enjoy channeling my inner 19th-century scholar (minus the plague).  
-- **Trivia**: I’m bald by choice—less time on hair care, more time on MATLAB simulations.  
+- **Fitness Journey**: Currently in a cutting phase, fueled by **high-volume exercise** and a 16:8 intermittent fasting schedule. Energy levels? Let’s just say I owe my mornings to coffee and willpower.  
+- **CRPG Fanatic**: Whether it’s **Baldur’s Gate 3** or **Pathfinder: Wrath of the Righteous**, I love morally ambiguous characters—psychiatry’s influence, maybe?  
+- **Dark Academia Enthusiast**: My home decor, wardrobe, and general vibe scream, “I’d totally write a philosophical thesis by candlelight.”  
+- **Bald & Bold**: Shaving my head saves me at least 20 minutes a week—time I now spend explaining Bayesian brain models.    
 
 ---
 
 ## 🤓 What Drives Me?  
 
-The mind is like the cosmos: vast, intricate, and full of mysteries. My work aims to bridge the gap between **neurobiology and technology**, turning psychiatric challenges into opportunities for innovation. Freud once said, “Unexpressed emotions will never die.” Today, I’d argue that they’re just waiting to be quantified in an fMRI machine.  
+The human mind is like a neural network—complex, adaptive, and occasionally prone to catastrophic forgetting. My mission is to bridge the gap between **neuroscience and technology**, turning the challenges of mental health into opportunities for innovation.  
+
+Freud said, “Unexpressed emotions will never die.” I believe they just need better quantification tools, like fMRI machines and neural nets.  
 
 ---
 
-Thanks for visiting! Let’s unravel the mysteries of the mind—one dataset at a time. 🚀
+Thanks for stopping by! Let’s unravel the mysteries of the mind together—one dataset, one eigenvector, and one cup of coffee at a time. 🚀  
