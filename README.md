@@ -1,8 +1,8 @@
 # Hello, World! 🌍  
 
-I’m @frknbkdmr, a psychiatrist-in-training who straddles the line between neurons and neural networks. Picture Freud, Karl Friston, and an AI algorithm having a coffee-fueled debate—I'm the one taking notes and trying to stay caffeinated enough to understand all sides.  
+I’m **@frknbkdmr**, a psychiatrist-in-training who straddles the line between neurons and neural networks. Picture Freud, Karl Friston, and an AI algorithm having a coffee-fueled debate. I'm the one taking notes, trying to stay caffeinated enough to understand all sides, and occasionally checking my **120kg bench press** stats to make sure my own physical hardware is holding up.
 
-When I’m not pondering life’s biggest questions like, “What if the subconscious could be quantified with machine learning?” or “Did Nietzsche secretly invent deep learning with all that eternal recurrence talk?” I’m either working on research, decoding EEG signals, or just desperately trying to keep my cat, Zurna, off my keyboard.  
+When I’m not pondering life’s biggest questions like, “What if the subconscious could be quantified with machine learning?” or “Did Nietzsche secretly invent deep learning with all that eternal recurrence talk?” I’m either working on my thesis at **Ondokuz Mayıs University**, decoding Beads Task data, or desperately trying to keep my cat, **Zurna**, off my keyboard.  
 
 ---
 
@@ -14,56 +14,42 @@ When I’m not pondering life’s biggest questions like, “What if the subcons
 ## 👨‍⚕️ About Me  
 
 - **👀 Research Focus**:  
-  My work and interests orbit the fascinating triad of **psychiatry, neuroscience, and artificial intelligence**. Some highlights include:  
-  - Unraveling the mysteries of mental disorders using machine learning (because Freud would’ve loved Python, I’m sure).  
-  - Investigating impulsivity and addiction while occasionally losing a battle to my own impulse to check Steam sales.  
-  - Studying how anxiety affects sleep patterns (while battling my own sleep-deprived state—hello, irony).  
+  My work orbits the triad of **psychiatry, neuroscience, and AI**. I’m particularly obsessed with:  
+  - **Schizophrenia & Belief Updating**: Using the **Hierarchical Gaussian Filter (HGF)** to model how the brain processes (mis)information.
+  - **The FMT Project**: I don’t just write code; I’m building a custom **Force-Matching Task** device with Maxon motors because understanding sensory attenuation requires some "hands-on" engineering.
+  - **Somatic Science**: Exploring how **Polyvagal Theory** and **TRE** can be modeled computationally—because the body keeps the score, but I want to see the spreadsheet.
 
 - **🌱 What I’m Learning**:  
-  Here’s what’s keeping me busy these days (aside from existential dread and paperwork):  
-  - **Computational Psychiatry**: Exploring how AI can revolutionize diagnostics—because “You’re just stressed” isn’t a good enough diagnosis in the 21st century.  
-  - **German Language**: Prepping for a two-month internship in Germany. *Ja, ich liebe Kaffee!*  
-  - **Linear Algebra**: Eigenvectors? More like "eigen-saviors" for neural networks.  
-  - **Metropolis-Hastings Algorithm**: The coolest algorithm you’ve probably never bragged about at parties.  
-  - **C Programming**: Because Python sometimes feels like cheating.  
+  - **German Language**: Prepping for a residency stint in **Brilon Wald (May 2026)**. *Ja, ich liebe Kaffee und Gehirnforschung!* - **Bayesian Inference**: Because life is just one big prior being updated by noisy evidence.
+  - **Reverse Engineering (Legacy Skill)**: My roots are in **malware analysis and IDA Pro**. I’ve moved from cracking binaries to cracking the human psyche which is the ultimate closed-source system.
 
 - **💞️ Collaboration Wishlist**:  
-  I’d love to work with anyone who’s into:  
-  - AI-driven approaches to mental health (bonus points if your favorite neuron is the dopaminergic kind).  
-  - Machine learning applications in healthcare (because code and care go hand in hand).  
-  - Creative projects blending tech and mental health awareness (got a podcast idea? Let’s talk).  
-
-- **📫 Contact Me**:  
-  Slide into my DMs or send me an email. Just please don’t try carrier pigeons; Zurna thinks they’re chew toys.  
+  - Anyone into AI-driven mental health (bonus points if your favorite neurotransmitter is Dopamine).  
+  - Devs who love **OpenCV**—I'm currently perfecting **GÖRÜNGÜ**, my OMR engine for clinical scales.
 
 ---
 
 ## 🧠 Academic Goals  
 
-1. **Take Over the Computational Psychiatry World**: Okay, maybe not the world, but I do plan to make AI and neuroscience besties.  
-2. **Research Like There’s No Tomorrow**:  
-   - Gambling addiction? I’m analyzing impulsivity so you don’t have to.  
-   - Anxiety messing with your sleep? I’m on it, with scales, stats, and maybe some strong coffee.  
-   - Aging and daily activities? Let’s figure out how to keep doing what we love, even if the knees disagree.  
-3. **Global Academia Domination**: (In a friendly, collaborative way, of course.)  
+1. **Thesis Supremacy**: Finalizing my research on delusions and sensory attenuation before December 2026.
+2. **Computational Psychiatry Evangelism**: Making AI and neuroscience besties so we can stop saying "You're just stressed" and start showing the data.
+3. **Global Academia Domination**: (In a friendly, collaborative way, likely involving lots of **Doom Metal** in the background).  
 
 ---
 
 ## 🤖 Projects & Experiments  
 
-- **AI Mental Health Tools**: Because someday, your therapist might be a bot, and I want to make sure it’s a good one.  
-- **Reinforcement Learning for Fun & Profit**: Training agents to make better decisions—unlike me with midnight snacks.  
-- **Semi-Structured Interviews**: Inspired by *The Checklist Manifesto* to make psychiatric evaluations smarter, faster, and more efficient.  
-- **Dark Academia-Inspired AI Systems**: Okay, this one’s not real… yet.  
-
+- **GÖRÜNGÜ (OMR Application)**: A Python/OpenCV tool to digitize psychiatric scales because manual data entry is a relic of the Freud era.  
+- **Reinforcement Learning**: Training agents to make better decisions—unlike me when I see a **LEGO Botanical** set I don't own yet.
+  
 ---
 
 ## 🏋️‍♂️ Fun Facts & Quirks  
 
-- **Fitness Journey**: Currently in a cutting phase, fueled by **high-volume exercise** and a 16:8 intermittent fasting schedule. Energy levels? Let’s just say I owe my mornings to coffee and willpower.  
-- **CRPG Fanatic**: Whether it’s **Baldur’s Gate 3** or **Pathfinder: Wrath of the Righteous**, I love morally ambiguous characters—psychiatry’s influence, maybe?  
-- **Dark Academia Enthusiast**: My home decor, wardrobe, and general vibe scream, “I’d totally write a philosophical thesis by candlelight.”  
-- **Bald & Bold**: Shaving my head saves me at least 20 minutes a week—time I now spend explaining Bayesian brain models.    
+- **Iron & Intermittent Fasting**: Currently 16:8 fasting. I’ve found that my **115kg barbell row** feels better when my insulin is low and my caffeine is high.  
+- **CRPG Fanatic**: **Baldur’s Gate 3** and **Pathfinder: WotR**. I always play morally ambiguous characters—psychiatry’s influence, or just a love for complex decision trees?  
+- **Home Life**: Living in **Samsun** with my wife whos a Neurology resident and yes, we argue about the thalamus over dinner and a steady supply of tiramisu and sarma.
+- **Bald & Bold**: Shaved my head to optimize my aerodynamics for faster paper reading. 
 
 ---
 
@@ -71,8 +57,8 @@ When I’m not pondering life’s biggest questions like, “What if the subcons
 
 The human mind is like a neural network—complex, adaptive, and occasionally prone to catastrophic forgetting. My mission is to bridge the gap between **neuroscience and technology**, turning the challenges of mental health into opportunities for innovation.  
 
-Freud said, “Unexpressed emotions will never die.” I believe they just need better quantification tools, like fMRI machines and neural nets.  
+Freud said, “Unexpressed emotions will never die.” I believe they just need better quantification tools, like fMRI machines, neural nets, and a bit of Python.  
 
 ---
 
-Thanks for stopping by! Let’s unravel the mysteries of the mind together—one dataset, one eigenvector, and one cup of coffee at a time. 🚀  
+Thanks for stopping by! Let’s unravel the mysteries of the mind together—one dataset, one eigenvector, and one cup of coffee at a time. 🚀
