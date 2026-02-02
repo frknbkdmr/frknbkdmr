@@ -20,7 +20,8 @@ When I’m not pondering life’s biggest questions like, “What if the subcons
   - **Somatic Science**: Exploring how **Polyvagal Theory** and **TRE** can be modeled computationally—because the body keeps the score, but I want to see the spreadsheet.
 
 - **🌱 What I’m Learning**:  
-  - **German Language**: Prepping for a residency stint in **Brilon Wald (May 2026)**. *Ja, ich liebe Kaffee und Gehirnforschung!* - **Bayesian Inference**: Because life is just one big prior being updated by noisy evidence.
+  - **German Language**: Prepping for a residency stint in **Brilon Wald (May 2026)**. *Ja, ich liebe Kaffee und Gehirnforschung!*
+  - **Bayesian Inference**: Because life is just one big prior being updated by noisy evidence.
   - **Reverse Engineering (Legacy Skill)**: My roots are in **malware analysis and IDA Pro**. I’ve moved from cracking binaries to cracking the human psyche which is the ultimate closed-source system.
 
 - **💞️ Collaboration Wishlist**:  
